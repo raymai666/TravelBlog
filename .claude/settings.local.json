@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(afplay __TRACKED_VAR__/.claude/sounds/feedback_request.aiff)"
+    ]
+  }
+}
